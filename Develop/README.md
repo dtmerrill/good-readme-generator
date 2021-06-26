@@ -16,16 +16,6 @@ Project How: JavaScript file executed through NodeJS.
 Installation Instructions:  You need the inquirer package in place and node to start the index.js file.
 <br>
 Usage Information: Once the files are where they need to be, open your terminal and start node index.js - then, just answer the questions that come up.
-
-
-Repo:  https://github.com/dtmerrill/good-readme-generator
-
-ScreenCastify Recording (This is the video showing the code working): https://drive.google.com/file/d/1BRbvhGzq2feXBBkincs9pXjGqPhhm3cY/view
-
-
-![Screenshot of the whole deal.](./assets/good-readme-gen-screenshot.png)
-
-
 <br>
 Guidelines for Contributions to this Project:  Open for feedback, help and clarification. We're all in this together.
 <br>
